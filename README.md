@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## 🌟 Overall stats
+
+<img align="left" alt="Irina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexban011&show_icons=true&hide_border=true&theme=slateorange" />
+
 <!--
 **alexban011/alexban011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
